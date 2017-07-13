@@ -1,4 +1,4 @@
-# Adicionando-suporte-sprites-ao-Sage-9.0.0-beta.3
+# Adicionando suporte sprites ao Sage 9.0.0-beta.3
 
 ## Requisitos
 * Ter o Yarn instalado na máquina.
